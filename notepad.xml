@@ -28,7 +28,7 @@
   <style name="Operator" foreground="#839496"/>
   <style name="Overloaded Operator" foreground="#00677c"/>
   <style name="Punctuation"/>
-  <style name="Preprocessor" foreground="#818181"/>
+  <style name="Preprocessor" foreground="#818181" bold="true"/>
   <style name="Label" foreground="#268bd2" bold="true"/>
   <style name="Comment" foreground="#e05e9b" bold="true"/>
   <style name="Doxygen.Comment" foreground="#586e75" italic="true"/>
@@ -41,7 +41,7 @@
   <style name="QmlScopeObjectProperty" foreground="#2aa198"/>
   <style name="QmlExternalObjectProperty" foreground="#2aa198"/>
   <style name="JsScopeVar" foreground="#9b59b6"/>
-  <style name="JsImportVar" foreground="#818181"/>
+  <style name="JsImportVar" foreground="#818181" bold="true"/>
   <style name="JsGlobalVar" foreground="#268bd2"/>
   <style name="QmlStateName" foreground="#657b83"/>
   <style name="Binding" foreground="#e67e21"/>
@@ -63,5 +63,5 @@
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration" foreground="#000000" bold="true"/>
   <style name="FunctionDefinition"/>
-  <style name="OutputArgument" foreground="#000000" italic="true"/>
+  <style name="OutputArgument" foreground="#1f8ad6"/>
 </style-scheme>
